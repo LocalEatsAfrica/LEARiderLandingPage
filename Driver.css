@@ -1,0 +1,28 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Ubuntu', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+}
+.navbar {
+    height: 80px !important;
+}
+#hero {
+    padding-top: 80px !important;
+    /* min-height: 100vh !important;  */
+    background-color: #F08F26 !important;
+}
+.icon {
+    color: #1d5c3d;
+}
+#deliver {
+    background-color: #ffb86d;
+}
+#deliver2 {
+    background-color: #ffb86d;
+}
+#deliver3 {
+    background-color: #ffb86d;
+}
+.accordion-button::after {
+    filter: brightness(0) saturate(100%) invert(48%) sepia(94%) saturate(2863%) hue-rotate(2deg) brightness(101%) contrast(105%);
+}
